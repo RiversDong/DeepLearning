@@ -1,7 +1,7 @@
 # Deep Learning
 ## 目录
 #### 第一部分 预训练语言模型
-* [Linux的一些命令](https://github.com/RiversDong/DeepLearning/blob/main/linux%E5%91%BD%E4%BB%A4.md)
+* [Linux的一些命令](https://github.com/RiversDong/DeepLearning/blob/main/第一部分预训练语言模型/linux%E5%91%BD%E4%BB%A4.md)
 * [预训练](https://github.com/RiversDong/DeepLearning/blob/main/%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
 * [统计语言模型](https://github.com/RiversDong/DeepLearning/blob/main/2%E7%BB%9F%E8%AE%A1%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
 * [神经网络语言模型和词向量](https://github.com/RiversDong/DeepLearning/blob/main/3%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%92%8C%E8%AF%8D%E5%90%91%E9%87%8F.md)
