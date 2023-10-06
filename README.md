@@ -5,7 +5,7 @@
 * [预训练](https://github.com/RiversDong/DeepLearning/blob/main/第一部分预训练语言模型/%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
 * [统计语言模型](https://github.com/RiversDong/DeepLearning/blob/main/第一部分预训练语言模型/2%E7%BB%9F%E8%AE%A1%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
 * [神经网络语言模型和词向量](https://github.com/RiversDong/DeepLearning/blob/main/第一部分预训练语言模型/3%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%92%8C%E8%AF%8D%E5%90%91%E9%87%8F.md)
-* [Word2Vec模型](https://github.com/RiversDong/DeepLearning/blob/main/第一部分预训练语言模型/3%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%92%8C%E8%AF%8D%E5%90%91%E9%87%8F.md)
+* [Word2Vec模型](https://github.com/RiversDong/DeepLearning/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/5%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8B%E6%B8%B8%E4%BB%BB.md)
 * [模型的下游任务](https://github.com/RiversDong/DeepLearning/blob/main/5%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8B%E6%B8%B8%E4%BB%BB.md)
 * [ELMO模型](https://github.com/RiversDong/DeepLearning/edit/main/第一部分预训练语言模型/6%20ELMO%E6%A8%A1%E5%9E%8B.md)
 * [注意力机制](https://github.com/RiversDong/DeepLearning/blob/main/第一部分预训练语言模型/7%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md)
