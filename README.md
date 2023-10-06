@@ -13,6 +13,13 @@
 * [注意力机制和自注意力机制的区别](https://github.com/RiversDong/DeepLearning/blob/main/第一部分预训练语言模型/8%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md)
 * [自注意力、RNN和LSTM](https://github.com/RiversDong/DeepLearning/blob/main/第一部分预训练语言模型/10%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E3%80%81RNN%E5%92%8CLSTM.md)
 * [掩码子注意力机制](https://github.com/RiversDong/DeepLearning/blob/main/第一部分预训练语言模型/11%E6%8E%A9%E7%A0%81%E5%AD%90%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md)
+* [多头自注意力机制](https://github.com/RiversDong/DeepLearning/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/12%E5%A4%9A%E5%A4%B4%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md)
+* [位置编码](https://github.com/RiversDong/DeepLearning/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/13%E4%BD%8D%E7%BD%AE%E7%BC%96%E7%A0%81.md)
+* [transformer框架](https://github.com/RiversDong/DeepLearning/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/14transformer%E6%A1%86%E6%9E%B6.md)
+* [transformer的编码器](https://github.com/RiversDong/DeepLearning/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/15transformer%E7%9A%84%E7%BC%96%E7%A0%81%E5%99%A8.md)
+* [transformer的解码器](https://github.com/RiversDong/DeepLearning/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/16transformer%E7%9A%84%E8%A7%A3%E7%A0%81%E5%99%A8.md)
+* [transformer的动态流程](https://github.com/RiversDong/DeepLearning/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/17%20transformer%E7%9A%84%E5%8A%A8%E6%80%81%E6%B5%81%E7%A8%8B.md)
+* [transformer的输入和输出](https://github.com/RiversDong/DeepLearning/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/18transformer%E7%9A%84%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA.md)
 
 ## 参考链接如下
 * [预训练语言模型(Transformer, BERT)的前世今生](https://space.bilibili.com/383551518/channel/collectiondetail?sid=463688)
