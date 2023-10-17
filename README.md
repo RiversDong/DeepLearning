@@ -22,7 +22,9 @@
 * [transformer的输入和输出](https://github.com/RiversDong/DeepLearning/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/18transformer%E7%9A%84%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA.md)
 
 #### 第二部分 Transformer代码实现
+* [transformer中的残差和标准化](https://github.com/RiversDong/DeepLearning/tree/main/transformer%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98)
+* [transformer中的多头自注意力机制](https://github.com/RiversDong/DeepLearning/blob/main/transformer%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98/02transformer%E4%B8%AD%E7%9A%84%E5%A4%9A%E5%A4%B4%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6.md)
 
 ## 参考链接如下
 * [预训练语言模型(Transformer, BERT)的前世今生](https://space.bilibili.com/383551518/channel/collectiondetail?sid=463688)
-* [李宏毅2021/2022春机器学习课程](https://github.com/RiversDong/DeepLearning/edit/main/9%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%E5%92%8C%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+* [李宏毅2021/2022春机器学习课程](https://github.com/RiversDong/DeepLearning/tree/main/transformer%E4%BB%A3%E7%A0%81%E5%AE%9E%E6%88%98)
